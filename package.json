@@ -1,14 +1,14 @@
 {
-  "name": "stackexchange",
+  "name": "stackexchangeswarup",
   "version": "1.0.0",
   "description": "Node.js implementation of the stackexchange/stackoverflow API",
-  "main": "./lib/stackexchange",
+  "main": "./lib/stackexchangeswarup",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/.bin/mocha $(find test -name '*.test.js')"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:swarup/stackexchange.git"
+    "url": "git@github.com:swarup/stackexchangeswarup.git"
   },
   "dependencies": {
     "devnull": "git+https://github.com/observing/devnull.git#ff99281602feca0cf3bdf0e6d36fedbf1b566523",
